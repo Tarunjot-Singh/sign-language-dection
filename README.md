@@ -1,6 +1,7 @@
 # sign-language-dection
 
 Summary:
+
 Our main idea revolves around helping deaf people to understand sign language without
 learning it. Simply by performing such signs and being interpreted and translated to letters
 and words can help people understand it with high ease. The main population this technology
